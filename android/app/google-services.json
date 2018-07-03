@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "343428849830",
+    "firebase_url": "https://beertime-1520601068459.firebaseio.com",
+    "project_id": "beertime-1520601068459",
+    "storage_bucket": "beertime-1520601068459.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343428849830:android:ce63fcd4a553272f",
+        "android_client_info": {
+          "package_name": "com.beertime2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343428849830-vajfrqk5tv0crphcf031lkojc91q2gui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beertime2",
+            "certificate_hash": "e346ecd2683c8840dbffc12c6bbab5e258c91ea7"
+          }
+        },
+        {
+          "client_id": "343428849830-vtafu2ve5d4vf36m6tcvo8jf83c3qvl9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "343428849830-qav0tbrbob6oifqfr02cgnp5i8tg24of.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beertime2",
+            "certificate_hash": "7ee709a0fa5421752e97f5ba42d31204827aae1b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx7huE-O06OZfXEoeW3X_2_mUoOm655NI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343428849830-vtafu2ve5d4vf36m6tcvo8jf83c3qvl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

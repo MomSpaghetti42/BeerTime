@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BeerTime</string>
+    <string name="facebook_app_id">296125087586944</string>
+	<string name="fb_login_protocol_scheme">fb296125087586944</string>
+</resources>
